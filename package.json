@@ -1,0 +1,38 @@
+{
+  "name": "concoct-content-loader",
+  "version": "0.0.1",
+  "description": "Load content into ConcoctJS contexts.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "DEBUG=\"concoct:* -concoct:debug\" mocha -R spec ./test/tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EyalAr/ConcoctJS-Content-Loader.git"
+  },
+  "keywords": [
+    "concoctjs",
+    "concoct",
+    "plugin",
+    "template",
+    "compiler",
+    "content",
+    "context",
+    "load"
+  ],
+  "author": "Eyal Arubas <eyalarubas@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EyalAr/ConcoctJS-Content-Loader/issues"
+  },
+  "homepage": "https://github.com/EyalAr/ConcoctJS-Content-Loader",
+  "dependencies": {
+    "async": "^0.7.0"
+  },
+  "devDependencies": {
+    "should": "~3.3.0",
+    "mocha": "~1.18.2",
+    "concoct": "0.0.2",
+    "rimraf": "^2.2.6"
+  }
+}
