@@ -32,7 +32,7 @@
   "devDependencies": {
     "should": "~3.3.0",
     "mocha": "~1.18.2",
-    "concoct": "0.0.2",
+    "concoct": "0.0.3",
     "rimraf": "^2.2.6"
   }
 }
