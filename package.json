@@ -1,6 +1,6 @@
 {
   "name": "concoct-content-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Load content into ConcoctJS contexts.",
   "main": "lib/index.js",
   "scripts": {
